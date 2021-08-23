@@ -1,4 +1,4 @@
-# apple transactional email
+# mailchimp promotional email
 
 ## Tech Stack
 
